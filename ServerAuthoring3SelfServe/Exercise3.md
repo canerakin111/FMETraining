@@ -31,12 +31,12 @@
 
 <tr>
 <td style="border: 1px solid darkorange; font-weight: bold">Start Workspace</td>
-<td style="border: 1px solid darkorange">C:\FMEData2016\Workspaces\ServerAuthoring\SelfServe-Ex3-Begin.fmw</td>
+<td style="border: 1px solid darkorange">C:\FMEData2017\Workspaces\ServerAuthoring\SelfServe-Ex3-Begin.fmw</td>
 </tr>
 
 <tr>
 <td style="border: 1px solid darkorange; font-weight: bold">End Workspace</td>
-<td style="border: 1px solid darkorange">C:\FMEData2016\Workspaces\ServerAuthoring\SelfServe-Ex3-Complete.fmw</td>
+<td style="border: 1px solid darkorange">C:\FMEData2017\Workspaces\ServerAuthoring\SelfServe-Ex3-Complete.fmw</td>
 </tr>
 
 </table>
@@ -68,12 +68,12 @@ In this step we'll give the end-user control over format and coordinate system.
 
 <tr>
 <td style="font-weight: bold">Writer Dataset</td>
-<td style="">C:\FMEData2016\Output</td>
+<td style="">C:\FMEData2017\Output</td>
 </tr>
 
 <tr>
 <td style="font-weight: bold">Writer Parameters</td>
-<td style="">Output Format: JPEG (Joint Photographic Experts Group)<br>MIME Type: img/jpeg</td>
+<td style="">Output Format: JPEG (Joint Photographic Experts Group)<br>MIME Type: image/jpeg</td>
 </tr>
 
 <tr>
